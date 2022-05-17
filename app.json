@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "pages": [
     "pages/block/block",
     "pages/index/index",
@@ -11,4 +12,17 @@
     "navigationBarTextStyle": "white"
   },
   "sitemapLocation": "sitemap.json"
+=======
+   "pages": [
+      "pages/wxfor/wxfor",
+      "pages/detail/detail"
+   ],
+   "window": {
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "#000000",
+      "navigationBarTitleText": "wx:for",
+      "navigationBarTextStyle": "white"
+   },
+   "sitemapLocation": "sitemap.json"
+>>>>>>> ccc5565f5dde7a5f0d52e6c71ea44a349d87ebb4
 }

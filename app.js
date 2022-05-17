@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //app.js
 App({
   onLaunch: function () {
@@ -35,5 +36,10 @@ App({
   },
   globalData: {
     userInfo: null
+=======
+App({
+  globalData: {
+  
+>>>>>>> ccc5565f5dde7a5f0d52e6c71ea44a349d87ebb4
   }
 })

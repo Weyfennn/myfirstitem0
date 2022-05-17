@@ -1,13 +1,18 @@
 {
+<<<<<<< HEAD
 	"description": "项目配置文件",
 	"packOptions": {
 		"ignore": []
 	},
+=======
+	"description": "项目配置文件。",
+>>>>>>> ccc5565f5dde7a5f0d52e6c71ea44a349d87ebb4
 	"setting": {
 		"urlCheck": true,
 		"es6": true,
 		"postcss": true,
 		"minified": true,
+<<<<<<< HEAD
 		"newFeature": true,
 		"autoAudits": false
 	},
@@ -19,6 +24,14 @@
 		"hidedInDevtools": []
 	},
 	"isGameTourist": false,
+=======
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.7.4",
+	"appid": "wx77bc5048b59dcf23",
+	"projectname": "2-8-4",
+>>>>>>> ccc5565f5dde7a5f0d52e6c71ea44a349d87ebb4
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
 	"condition": {
@@ -30,6 +43,7 @@
 			"current": -1,
 			"list": []
 		},
+<<<<<<< HEAD
 		"game": {
 			"currentL": -1,
 			"list": []
@@ -37,6 +51,42 @@
 		"miniprogram": {
 			"current": -1,
 			"list": []
+=======
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "cart",
+					"pathName": "pages/cart/cart",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "my",
+					"pathName": "pages/my/my",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "about",
+					"pathName": "pages/about/about",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pay",
+					"pathName": "pages/pay/pay",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "address",
+					"pathName": "pages/address/address",
+					"query": ""
+				}
+			]
+>>>>>>> ccc5565f5dde7a5f0d52e6c71ea44a349d87ebb4
 		}
 	}
 }
